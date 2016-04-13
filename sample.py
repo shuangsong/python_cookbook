@@ -11,7 +11,7 @@ for word in sentence.split():
 
 
 #page 73: effective use of a dictionary of dictionaries
-from collections import import defaultdict
+from collections import defaultdict
 user_movie_rating = defaultdict(lambda : defaultdict(int))
 
 user_movie_rating["Alice"]["LOR1"] = 4
