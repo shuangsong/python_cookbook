@@ -21,3 +21,23 @@ user_movie_rating["Alice"]["SW1"] = 5
 user_movie_rating["Alice"]["SW2"] = 3
 
 print user_movie_rating
+
+
+
+#
+
+
+
+
+
+
+#
+
+
+
+
+
+
+#
+
+
