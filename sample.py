@@ -1,4 +1,4 @@
-#get the word count page 66
+#page 66: get the word count 
 sentence = "Peter piper picked a peck of pickled peppers A peck of pickled"
 word_dict = {} #initialize a dictionary object
 for word in sentence.split():
@@ -8,3 +8,6 @@ for word in sentence.split():
         word_dict[word] += 1
     print word_dict
 
+
+
+#page 73: 
